@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "s05_TestingGround",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "G:\\UnrealEngine\\UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"G:\\UnrealEngine\\Repos\\Re;pos\\s05_TestingGround\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\s05_TestingGround\\Definitions.s05_TestingGround.h",
+			"G:\\UnrealEngine\\Repos\\Re;pos\\s05_TestingGround\\Intermediate\\Build\\Win64\\s05_TestingGroundEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
